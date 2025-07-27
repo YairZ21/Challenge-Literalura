@@ -32,8 +32,7 @@ Una app Java Spring Boot para buscar, registrar y explorar libros usando la API 
 
 1. **Clona el repositorio**
    ```bash
-   git clone https://github.com/tuusuario/desafiobusquedalibros.git
-   cd desafiobusquedalibros
+   [//github.com/YairZ21/Challenge-Literalura](https://github.com/YairZ21/Challenge-Literalura)
    ```
 
 2. **Configura la base de datos**  
