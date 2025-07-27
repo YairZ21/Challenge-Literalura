@@ -1,5 +1,5 @@
 
-# 📚 desafiobusquedalibros
+# 📚 Challenge Literatura
 
 ¡Bienvenido a **desafiobusquedalibros**!  
 Una app Java Spring Boot para buscar, registrar y explorar libros usando la API de [Gutendex](https://gutendex.com/books/) y PostgreSQL.
@@ -32,7 +32,7 @@ Una app Java Spring Boot para buscar, registrar y explorar libros usando la API 
 
 1. **Clona el repositorio**
    ```bash
-   [//github.com/YairZ21/Challenge-Literalura](https://github.com/YairZ21/Challenge-Literalura)
+   (https://github.com/YairZ21/Challenge-Literalura)
    ```
 
 2. **Configura la base de datos**  
